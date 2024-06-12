@@ -1,4 +1,3 @@
-[.exe*
 addgnupghome*
 applygnupgdefaults*
 arch.exe*
@@ -6,20 +5,13 @@ astextplain*
 awk.exe*
 b2sum.exe*
 backup*
+Nova linija koja je dodana
 base32.exe*
 base64.exe*
 basename.exe*
 basenc.exe*
 bash.exe*
 bashbug*
-bunzip2.exe*
-bzcat.exe*
-bzcmp*
-bzdiff*
-bzegrep*
-bzfgrep*
-bzgrep*
-bzip2.exe*
 bzip2recover.exe*
 bzless*
 c_rehash*
