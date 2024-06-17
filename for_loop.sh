@@ -5,5 +5,4 @@ do
     echo ${item}
 done;
 
-
 echo "Skripta se zavrsila"
