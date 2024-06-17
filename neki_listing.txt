@@ -1,0 +1,5 @@
+total 9
+-rw-r--r-- 1 Aleksandar.Trivic 1049089 4993 Jun 17 19:40 bin.txt
+drwxr-xr-x 1 Aleksandar.Trivic 1049089    0 Jun 17 19:40 deps/
+-rwxr-xr-x 1 Aleksandar.Trivic 1049089  114 Jun 17 20:02 for_loop.sh*
+-rw-r--r-- 1 Aleksandar.Trivic 1049089    0 Jun 17 20:02 neki_listing.txt
