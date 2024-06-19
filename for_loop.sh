@@ -3,17 +3,11 @@
 for item in {1..11}
 do
     echo ${item}
-
-echo "The end"
-
-	echo "Promena skripte, ocekivan konflikt"
-
-
-
-echo Zavrseno
-
-  
+    echo "Ovo je neka poruka"
 done;
 
 echo "Skripta se zavrsila"
-ls -lh
+<<<<<<< HEAD
+
+ls -l
+
