@@ -7,4 +7,4 @@ do
 done;
 
 echo "Skripta se zavrsila"
-ls -l
+ls -lh
