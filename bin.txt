@@ -5,10 +5,6 @@ astextplain*
 awk.exe*
 comm.exe*
 core_perl/
-cp.exe*
-csplit.exe*
-cut.exe*
-cygcheck.exe*
 cygpath.exe*
 cygwin-console-helper.exe*
 d2u.exe*
