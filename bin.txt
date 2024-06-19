@@ -335,3 +335,4 @@ zipgrep*
 zipinfo.exe*
 zless*
 znew*
+"Add text" 
