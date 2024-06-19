@@ -3,7 +3,9 @@
 for item in {1..11}
 do
     echo ${item}
-    echo "Ovo je ispisano"
+
+	echo "Promena skripte, ocekivan konflikt"
+
 done;
 
 echo "Skripta se zavrsila"
