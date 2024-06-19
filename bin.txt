@@ -1,9 +1,10 @@
+adifewfeidgnupghome*
 izmena broj 1 by Aleksandar
 ¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
 
 addgnupghome*
 applygnupgdefaults*
-arch.exe*
+iarch.exe*
 astextplain*
 awk.exe*
 comm.exe*
@@ -11,31 +12,20 @@ core_perl/
 cygpath.exe*
 cygwin-console-helper.exe*
 d2u.exe*
-dash.exe*
-date.exe*
-dd.exe*
-df.exe*
-diff.exe*
-diff3.exe*
-dir.exe*
-dircolors.exe*
 dirmngr-client.exe*
 dirmngr.exe*
 dirname.exe*
 docx2txt*
 docx2txt.pl*
 dos2unix.exe*
-du.exe*
 dumpsexp.exe*
 echo.exe*
 egrep*
 env.exe*
-ex.exe*
 expand.exe*
 expr.exe*
 factor.exe*
 false.exe*
-fgrep*
 file.exe*
 find.exe*
 findssl.sh*
@@ -343,3 +333,4 @@ zipgrep*
 zipinfo.exe*
 zless*
 znew*
+"Add text" 
