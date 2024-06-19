@@ -1,6 +1,6 @@
-addgnupghome*
+adifewfeidgnupghome*
 applygnupgdefaults*
-arch.exe*
+iarch.exe*
 astextplain*
 awk.exe*
 comm.exe*
