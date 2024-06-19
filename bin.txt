@@ -22,17 +22,14 @@ dirname.exe*
 docx2txt*
 docx2txt.pl*
 dos2unix.exe*
-du.exe*
 dumpsexp.exe*
 echo.exe*
 egrep*
 env.exe*
-ex.exe*
 expand.exe*
 expr.exe*
 factor.exe*
 false.exe*
-fgrep*
 file.exe*
 find.exe*
 findssl.sh*
