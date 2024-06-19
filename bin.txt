@@ -1,9 +1,10 @@
+adifewfeidgnupghome*
 izmena broj 1 by Aleksandar
 ¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
 
 addgnupghome*
 applygnupgdefaults*
-arch.exe*
+iarch.exe*
 astextplain*
 awk.exe*
 comm.exe*
