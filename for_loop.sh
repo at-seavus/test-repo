@@ -7,7 +7,5 @@ do
 done;
 
 echo "Skripta se zavrsila"
-<<<<<<< HEAD
 
 ls -l
-
