@@ -1,2 +1,7 @@
 Ali mozemo da dodamo nesto
 Jos jedna linija
+bin.txt
+deps/
+for_loop.sh*
+ivan.txt
+ls.log
