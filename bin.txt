@@ -18,7 +18,6 @@ dirname.exe*
 docx2txt*
 docx2txt.pl*
 dos2unix.exe*
-dumpsexp.exe*
 echo.exe*
 egrep*
 env.exe*
@@ -333,4 +332,4 @@ zipgrep*
 zipinfo.exe*
 zless*
 znew*
-"Add text" 
+"Add text"
